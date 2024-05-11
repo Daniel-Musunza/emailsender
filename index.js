@@ -42,7 +42,7 @@ const sendEmail = asyncHandler(async (req, res) => {
 
 
     const mailOptions = {
-      from: 'Musunza <musunza@qualityasoftwares.com>', // Sender name and email
+      from: 'Vincent <vincent@qualityasoftwares.com>', // Sender name and email
       to: email,
       subject: 'Elevate Your Beauty Parlour with a Stunning Website!',
       html: `${getHTML(name)}` // Enhance email content as needed
