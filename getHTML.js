@@ -156,7 +156,7 @@ span.MsoHyperlinkFollowed {
                   <td class="es-m-p20b" align="left" style="padding:0;Margin:0;width:60px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td class="es-m-txt-c" style="padding:0;Margin:0;font-size:0px" align="right"><a target="_blank" href="https://viewstripo.email" style="mso-line-height-rule:exactly;text-decoration:underline;color:#5C68E2;font-size:14px;-webkit-text-size-adjust:none;-ms-text-size-adjust:none"><img src="https://media.licdn.com/dms/image/D4E03AQHUwHl5rql5Ng/profile-displayphoto-shrink_800_800/0/1683729950642?e=2147483647&v=beta&t=1w7PyfrlmQ001zfbq8aljGP4v46NpBuHQI31maHNyBg" alt="" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;border-radius:50%;cursor:pointer;object-fit:cover" width="60"></a></td>
+                      <td class="es-m-txt-c" style="padding:0;Margin:0;font-size:0px" align="right"><a target="_blank" href="https://viewstripo.email" style="mso-line-height-rule:exactly;text-decoration:underline;color:#5C68E2;font-size:14px;-webkit-text-size-adjust:none;-ms-text-size-adjust:none"><img src="https://media.licdn.com/dms/image/D4D03AQFCcyQzKJVTyw/profile-displayphoto-shrink_200_200/0/1694687118306?e=2147483647&v=beta&t=jsOxKcwNGj0BrFbiFNJz1otmLChR1YBKn666l-1uUwE" alt="" style="display:block;font-size:14px;border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;border-radius:50%;cursor:pointer;object-fit:cover" width="60"></a></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -166,7 +166,7 @@ span.MsoHyperlinkFollowed {
                   <td align="left" style="padding:0;Margin:0;width:490px">
                    <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                      <tr>
-                      <td class="es-m-txt-c" align="left" style="padding:0;Margin:0"><h3 style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:20px;font-style:normal;font-weight:bold;line-height:40px;color:#666666">Vincent Kututa</h3><p style="Margin:0;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;letter-spacing:0;color:#666666;font-size:14px;-webkit-text-size-adjust:none;-ms-text-size-adjust:none">Sales support, Quality-A</p></td>
+                      <td class="es-m-txt-c" align="left" style="padding:0;Margin:0"><h3 style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:20px;font-style:normal;font-weight:bold;line-height:40px;color:#666666">Musunza Festus</h3><p style="Margin:0;mso-line-height-rule:exactly;font-family:arial, 'helvetica neue', helvetica, sans-serif;line-height:21px;letter-spacing:0;color:#666666;font-size:14px;-webkit-text-size-adjust:none;-ms-text-size-adjust:none">Software Engineer, Quality-A</p></td>
                      </tr>
                    </table></td>
                  </tr>
@@ -402,7 +402,7 @@ span.MsoHyperlinkFollowed {
                       <td align="left" style="padding:0;Margin:0;width:130px">
                        <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                          <tr>
-                          <td align="left" style="padding:0;Margin:0"><span>Ksh 20,000<br></span></td>
+                          <td align="left" style="padding:0;Margin:0"><span>USD 300<br></span></td>
                          </tr>
                        </table></td>
                      </tr>
@@ -438,7 +438,7 @@ span.MsoHyperlinkFollowed {
                       <td align="left" style="padding:0;Margin:0;width:410px">
                        <table width="100%" cellspacing="0" cellpadding="0" role="presentation" style="mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;border-spacing:0px">
                          <tr>
-                          <td align="left" style="padding:0;Margin:0"><h3 style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:20px;font-style:normal;font-weight:bold;line-height:24px;color:#333333;text-align:-webkit-left">For just Ksh 20,000, you'll receive:<br></h3></td>
+                          <td align="left" style="padding:0;Margin:0"><h3 style="Margin:0;font-family:arial, 'helvetica neue', helvetica, sans-serif;mso-line-height-rule:exactly;letter-spacing:0;font-size:20px;font-style:normal;font-weight:bold;line-height:24px;color:#333333;text-align:-webkit-left">For just USD 300, you'll receive:<br></h3></td>
                          </tr>
                        </table></td>
                      </tr>
